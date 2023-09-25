@@ -2,3 +2,5 @@ Pour cloner le repository: Git clone https://github.com/liamRouaz/git-begins.git
 Les trois commande git sont : git addictif . Puis git commit "commentaire" et enfin git push 
 git push origin <nom_de_la_branche>
 git pull origin <nom_de_la_branche>
+git checkout -b <nom de la branche>
+git checkout <nom de la branche>
